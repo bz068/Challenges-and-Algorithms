@@ -1,0 +1,13 @@
+C:\Users\omid5\source\repos\anagram\anagram\obj\Debug\netcoreapp3.1\anagram.csprojAssemblyReference.cache
+C:\Users\omid5\source\repos\anagram\anagram\obj\Debug\netcoreapp3.1\anagram.AssemblyInfoInputs.cache
+C:\Users\omid5\source\repos\anagram\anagram\obj\Debug\netcoreapp3.1\anagram.AssemblyInfo.cs
+C:\Users\omid5\source\repos\anagram\anagram\obj\Debug\netcoreapp3.1\anagram.csproj.CoreCompileInputs.cache
+C:\Users\omid5\source\repos\anagram\anagram\bin\Debug\netcoreapp3.1\anagram.exe
+C:\Users\omid5\source\repos\anagram\anagram\bin\Debug\netcoreapp3.1\anagram.deps.json
+C:\Users\omid5\source\repos\anagram\anagram\bin\Debug\netcoreapp3.1\anagram.runtimeconfig.json
+C:\Users\omid5\source\repos\anagram\anagram\bin\Debug\netcoreapp3.1\anagram.runtimeconfig.dev.json
+C:\Users\omid5\source\repos\anagram\anagram\bin\Debug\netcoreapp3.1\anagram.dll
+C:\Users\omid5\source\repos\anagram\anagram\bin\Debug\netcoreapp3.1\anagram.pdb
+C:\Users\omid5\source\repos\anagram\anagram\obj\Debug\netcoreapp3.1\anagram.dll
+C:\Users\omid5\source\repos\anagram\anagram\obj\Debug\netcoreapp3.1\anagram.pdb
+C:\Users\omid5\source\repos\anagram\anagram\obj\Debug\netcoreapp3.1\anagram.genruntimeconfig.cache

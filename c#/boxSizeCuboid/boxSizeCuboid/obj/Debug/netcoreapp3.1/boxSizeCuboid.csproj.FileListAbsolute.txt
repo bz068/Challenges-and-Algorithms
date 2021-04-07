@@ -1,0 +1,13 @@
+C:\Users\omid5\source\repos\boxSizeCuboid\boxSizeCuboid\bin\Debug\netcoreapp3.1\boxSizeCuboid.exe
+C:\Users\omid5\source\repos\boxSizeCuboid\boxSizeCuboid\bin\Debug\netcoreapp3.1\boxSizeCuboid.deps.json
+C:\Users\omid5\source\repos\boxSizeCuboid\boxSizeCuboid\bin\Debug\netcoreapp3.1\boxSizeCuboid.runtimeconfig.json
+C:\Users\omid5\source\repos\boxSizeCuboid\boxSizeCuboid\bin\Debug\netcoreapp3.1\boxSizeCuboid.runtimeconfig.dev.json
+C:\Users\omid5\source\repos\boxSizeCuboid\boxSizeCuboid\bin\Debug\netcoreapp3.1\boxSizeCuboid.dll
+C:\Users\omid5\source\repos\boxSizeCuboid\boxSizeCuboid\bin\Debug\netcoreapp3.1\boxSizeCuboid.pdb
+C:\Users\omid5\source\repos\boxSizeCuboid\boxSizeCuboid\obj\Debug\netcoreapp3.1\boxSizeCuboid.csprojAssemblyReference.cache
+C:\Users\omid5\source\repos\boxSizeCuboid\boxSizeCuboid\obj\Debug\netcoreapp3.1\boxSizeCuboid.AssemblyInfoInputs.cache
+C:\Users\omid5\source\repos\boxSizeCuboid\boxSizeCuboid\obj\Debug\netcoreapp3.1\boxSizeCuboid.AssemblyInfo.cs
+C:\Users\omid5\source\repos\boxSizeCuboid\boxSizeCuboid\obj\Debug\netcoreapp3.1\boxSizeCuboid.csproj.CoreCompileInputs.cache
+C:\Users\omid5\source\repos\boxSizeCuboid\boxSizeCuboid\obj\Debug\netcoreapp3.1\boxSizeCuboid.dll
+C:\Users\omid5\source\repos\boxSizeCuboid\boxSizeCuboid\obj\Debug\netcoreapp3.1\boxSizeCuboid.pdb
+C:\Users\omid5\source\repos\boxSizeCuboid\boxSizeCuboid\obj\Debug\netcoreapp3.1\boxSizeCuboid.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\omid5\source\repos\taxes\taxes\obj\Debug\netcoreapp3.1\taxes.csprojAssemblyReference.cache
+C:\Users\omid5\source\repos\taxes\taxes\obj\Debug\netcoreapp3.1\taxes.AssemblyInfoInputs.cache
+C:\Users\omid5\source\repos\taxes\taxes\obj\Debug\netcoreapp3.1\taxes.AssemblyInfo.cs
+C:\Users\omid5\source\repos\taxes\taxes\obj\Debug\netcoreapp3.1\taxes.csproj.CoreCompileInputs.cache
+C:\Users\omid5\source\repos\taxes\taxes\bin\Debug\netcoreapp3.1\taxes.exe
+C:\Users\omid5\source\repos\taxes\taxes\bin\Debug\netcoreapp3.1\taxes.deps.json
+C:\Users\omid5\source\repos\taxes\taxes\bin\Debug\netcoreapp3.1\taxes.runtimeconfig.json
+C:\Users\omid5\source\repos\taxes\taxes\bin\Debug\netcoreapp3.1\taxes.runtimeconfig.dev.json
+C:\Users\omid5\source\repos\taxes\taxes\bin\Debug\netcoreapp3.1\taxes.dll
+C:\Users\omid5\source\repos\taxes\taxes\bin\Debug\netcoreapp3.1\taxes.pdb
+C:\Users\omid5\source\repos\taxes\taxes\obj\Debug\netcoreapp3.1\taxes.dll
+C:\Users\omid5\source\repos\taxes\taxes\obj\Debug\netcoreapp3.1\taxes.pdb
+C:\Users\omid5\source\repos\taxes\taxes\obj\Debug\netcoreapp3.1\taxes.genruntimeconfig.cache

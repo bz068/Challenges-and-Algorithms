@@ -1,0 +1,13 @@
+C:\Users\omid5\source\repos\calculatorCSharp\calculatorCSharp\bin\Debug\netcoreapp3.1\calculatorCSharp.exe
+C:\Users\omid5\source\repos\calculatorCSharp\calculatorCSharp\bin\Debug\netcoreapp3.1\calculatorCSharp.deps.json
+C:\Users\omid5\source\repos\calculatorCSharp\calculatorCSharp\bin\Debug\netcoreapp3.1\calculatorCSharp.runtimeconfig.json
+C:\Users\omid5\source\repos\calculatorCSharp\calculatorCSharp\bin\Debug\netcoreapp3.1\calculatorCSharp.runtimeconfig.dev.json
+C:\Users\omid5\source\repos\calculatorCSharp\calculatorCSharp\bin\Debug\netcoreapp3.1\calculatorCSharp.dll
+C:\Users\omid5\source\repos\calculatorCSharp\calculatorCSharp\bin\Debug\netcoreapp3.1\calculatorCSharp.pdb
+C:\Users\omid5\source\repos\calculatorCSharp\calculatorCSharp\obj\Debug\netcoreapp3.1\calculatorCSharp.csprojAssemblyReference.cache
+C:\Users\omid5\source\repos\calculatorCSharp\calculatorCSharp\obj\Debug\netcoreapp3.1\calculatorCSharp.AssemblyInfoInputs.cache
+C:\Users\omid5\source\repos\calculatorCSharp\calculatorCSharp\obj\Debug\netcoreapp3.1\calculatorCSharp.AssemblyInfo.cs
+C:\Users\omid5\source\repos\calculatorCSharp\calculatorCSharp\obj\Debug\netcoreapp3.1\calculatorCSharp.csproj.CoreCompileInputs.cache
+C:\Users\omid5\source\repos\calculatorCSharp\calculatorCSharp\obj\Debug\netcoreapp3.1\calculatorCSharp.dll
+C:\Users\omid5\source\repos\calculatorCSharp\calculatorCSharp\obj\Debug\netcoreapp3.1\calculatorCSharp.pdb
+C:\Users\omid5\source\repos\calculatorCSharp\calculatorCSharp\obj\Debug\netcoreapp3.1\calculatorCSharp.genruntimeconfig.cache
